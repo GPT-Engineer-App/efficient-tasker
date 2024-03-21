@@ -30,7 +30,7 @@ const Index = () => {
   return (
     <Box maxWidth="600px" margin="auto" mt={8} p={4}>
       <Heading as="h1" size="xl" textAlign="center" mb={8}>
-        Todo App
+        Todo App THE BESTTT
       </Heading>
       <form onSubmit={handleSubmit}>
         <HStack>
